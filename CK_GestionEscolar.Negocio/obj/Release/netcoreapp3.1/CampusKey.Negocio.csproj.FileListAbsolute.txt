@@ -1,0 +1,14 @@
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Negocio\bin\Release\netcoreapp3.1\CampusKey.Negocio.deps.json
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Negocio\bin\Release\netcoreapp3.1\CampusKey.Negocio.dll
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Negocio\bin\Release\netcoreapp3.1\CampusKey.Negocio.pdb
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Negocio\bin\Release\netcoreapp3.1\CampusKey.Datos.dll
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Negocio\bin\Release\netcoreapp3.1\CampusKey.Entidades.dll
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Negocio\bin\Release\netcoreapp3.1\CampusKey.Datos.pdb
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Negocio\bin\Release\netcoreapp3.1\CampusKey.Entidades.pdb
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Negocio\obj\Release\netcoreapp3.1\CampusKey.Negocio.csprojAssemblyReference.cache
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Negocio\obj\Release\netcoreapp3.1\CampusKey.Negocio.csproj.CoreCompileInputs.cache
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Negocio\obj\Release\netcoreapp3.1\CampusKey.Negocio.AssemblyInfoInputs.cache
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Negocio\obj\Release\netcoreapp3.1\CampusKey.Negocio.AssemblyInfo.cs
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Negocio\obj\Release\netcoreapp3.1\CampusKey.Negocio.csproj.CopyComplete
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Negocio\obj\Release\netcoreapp3.1\CampusKey.Negocio.dll
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Negocio\obj\Release\netcoreapp3.1\CampusKey.Negocio.pdb

@@ -1,0 +1,12 @@
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Datos\bin\Release\netcoreapp3.1\CampusKey.Datos.deps.json
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Datos\bin\Release\netcoreapp3.1\CampusKey.Datos.dll
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Datos\bin\Release\netcoreapp3.1\CampusKey.Datos.pdb
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Datos\bin\Release\netcoreapp3.1\CampusKey.Entidades.dll
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Datos\bin\Release\netcoreapp3.1\CampusKey.Entidades.pdb
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Datos\obj\Release\netcoreapp3.1\CampusKey.Datos.csprojAssemblyReference.cache
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Datos\obj\Release\netcoreapp3.1\CampusKey.Datos.csproj.CoreCompileInputs.cache
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Datos\obj\Release\netcoreapp3.1\CampusKey.Datos.AssemblyInfoInputs.cache
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Datos\obj\Release\netcoreapp3.1\CampusKey.Datos.AssemblyInfo.cs
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Datos\obj\Release\netcoreapp3.1\CampusKey.Datos.csproj.CopyComplete
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Datos\obj\Release\netcoreapp3.1\CampusKey.Datos.dll
+D:\CampusKey_TFS\Vainilla\CampusKey_Backend\CampusKey\CampusKey.Datos\obj\Release\netcoreapp3.1\CampusKey.Datos.pdb

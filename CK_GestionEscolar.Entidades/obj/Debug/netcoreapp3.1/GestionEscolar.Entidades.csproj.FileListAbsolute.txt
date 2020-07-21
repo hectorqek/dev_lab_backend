@@ -1,0 +1,12 @@
+D:\DragonMarket_Frontend\Ck_Backend\CampusKey\CampusKey.Entidades\bin\Debug\netcoreapp3.1\GestionEscolar.Entidades.deps.json
+D:\DragonMarket_Frontend\Ck_Backend\CampusKey\CampusKey.Entidades\bin\Debug\netcoreapp3.1\GestionEscolar.Entidades.runtimeconfig.json
+D:\DragonMarket_Frontend\Ck_Backend\CampusKey\CampusKey.Entidades\bin\Debug\netcoreapp3.1\GestionEscolar.Entidades.runtimeconfig.dev.json
+D:\DragonMarket_Frontend\Ck_Backend\CampusKey\CampusKey.Entidades\bin\Debug\netcoreapp3.1\GestionEscolar.Entidades.dll
+D:\DragonMarket_Frontend\Ck_Backend\CampusKey\CampusKey.Entidades\bin\Debug\netcoreapp3.1\GestionEscolar.Entidades.pdb
+D:\DragonMarket_Frontend\Ck_Backend\CampusKey\CampusKey.Entidades\obj\Debug\netcoreapp3.1\GestionEscolar.Entidades.csprojAssemblyReference.cache
+D:\DragonMarket_Frontend\Ck_Backend\CampusKey\CampusKey.Entidades\obj\Debug\netcoreapp3.1\GestionEscolar.Entidades.csproj.CoreCompileInputs.cache
+D:\DragonMarket_Frontend\Ck_Backend\CampusKey\CampusKey.Entidades\obj\Debug\netcoreapp3.1\GestionEscolar.Entidades.AssemblyInfoInputs.cache
+D:\DragonMarket_Frontend\Ck_Backend\CampusKey\CampusKey.Entidades\obj\Debug\netcoreapp3.1\GestionEscolar.Entidades.AssemblyInfo.cs
+D:\DragonMarket_Frontend\Ck_Backend\CampusKey\CampusKey.Entidades\obj\Debug\netcoreapp3.1\GestionEscolar.Entidades.dll
+D:\DragonMarket_Frontend\Ck_Backend\CampusKey\CampusKey.Entidades\obj\Debug\netcoreapp3.1\GestionEscolar.Entidades.pdb
+D:\DragonMarket_Frontend\Ck_Backend\CampusKey\CampusKey.Entidades\obj\Debug\netcoreapp3.1\GestionEscolar.Entidades.genruntimeconfig.cache

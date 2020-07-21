@@ -1,0 +1,5 @@
+D:\DragonMarket_Frontend\Ck_Backend\CampusKey\CampusKey.Web\obj\Debug\netcoreapp3.1\GestionEscolar.Web.csprojAssemblyReference.cache
+D:\DragonMarket_Frontend\Ck_Backend\CampusKey\CampusKey.Web\obj\Debug\netcoreapp3.1\GestionEscolar.Web.csproj.CoreCompileInputs.cache
+D:\DragonMarket_Frontend\Ck_Backend\CampusKey\CampusKey.Web\obj\Debug\netcoreapp3.1\GestionEscolar.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\DragonMarket_Frontend\Ck_Backend\CampusKey\CampusKey.Web\obj\Debug\netcoreapp3.1\GestionEscolar.Web.AssemblyInfoInputs.cache
+D:\DragonMarket_Frontend\Ck_Backend\CampusKey\CampusKey.Web\obj\Debug\netcoreapp3.1\GestionEscolar.Web.AssemblyInfo.cs
